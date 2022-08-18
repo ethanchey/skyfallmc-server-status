@@ -18,7 +18,7 @@ status-website:
   cname: status.skyfallmc.ga
   # baseUrl: /your-repo-name
   logoUrl: https://play.skyfallmc.ga/assets/logo.png
-  theme: dark
+  theme: night
   name: SkyfallMC Status Page
   introTitle: "Welcome to the **SkyfallMC** Status Page"
   navbar:
