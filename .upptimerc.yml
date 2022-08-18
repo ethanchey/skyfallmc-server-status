@@ -20,12 +20,14 @@ status-website:
   logoUrl: https://play.skyfallmc.ga/assets/logo.png
   theme: night
   name: SkyfallMC Status Page
-  introTitle: "Welcome to the **SkyfallMC** Status Page"
+  introTitle: "Welcome to the SkyfallMC Status Page"
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: Home
+      href: https://play.skyfallmc.ga
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
