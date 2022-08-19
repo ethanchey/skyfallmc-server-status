@@ -22,7 +22,7 @@ This repository contains [Upptime](https://github.com/upptime/upptime), a free a
 
 <!--end: status pages-->
 
-[**📈 Visit our status website →**](https://status.skyfallmc.ga)
+📈 [**Visit our status website →**](https://status.skyfallmc.ga)
 
 **Note:** Response times, graphs, and this file are updated every 4 hours. Server statuses are updated every minute.
 
