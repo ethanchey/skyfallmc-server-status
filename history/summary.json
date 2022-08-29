@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1097,
-    "timeDay": 510,
-    "timeWeek": 1500,
-    "timeMonth": 1097,
-    "timeYear": 1097,
+    "time": 1092,
+    "timeDay": 586,
+    "timeWeek": 1504,
+    "timeMonth": 1092,
+    "timeYear": 1092,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 837,
-    "timeDay": 418,
-    "timeWeek": 1067,
-    "timeMonth": 837,
-    "timeYear": 837,
+    "time": 842,
+    "timeDay": 561,
+    "timeWeek": 1086,
+    "timeMonth": 842,
+    "timeYear": 842,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 917,
-    "timeDay": 434,
-    "timeWeek": 1117,
-    "timeMonth": 917,
-    "timeYear": 917,
+    "time": 910,
+    "timeDay": 454,
+    "timeWeek": 1111,
+    "timeMonth": 910,
+    "timeYear": 910,
     "dailyMinutesDown": {}
   },
   {
@@ -59,20 +59,17 @@
     "icon": "https://favicons.githubusercontent.com/stats.skyfallmc.ga",
     "slug": "server-statistics",
     "status": "up",
-    "uptime": "99.64%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.64%",
-    "uptimeYear": "99.64%",
-    "time": 931,
-    "timeDay": 553,
-    "timeWeek": 1192,
-    "timeMonth": 931,
-    "timeYear": 931,
-    "dailyMinutesDown": {
-      "2022-08-20": 54,
-      "2022-08-19": 6
-    }
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 928,
+    "timeDay": 648,
+    "timeWeek": 1194,
+    "timeMonth": 928,
+    "timeYear": 928,
+    "dailyMinutesDown": {}
   },
   {
     "name": "SkyfallMC Minecraft Server",
@@ -80,19 +77,16 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "skyfall-mc-minecraft-server",
     "status": "up",
-    "uptime": "99.60%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.60%",
-    "uptimeYear": "99.60%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 265,
-    "timeDay": 214,
+    "timeDay": 237,
     "timeWeek": 338,
     "timeMonth": 265,
     "timeYear": 265,
-    "dailyMinutesDown": {
-      "2022-08-20": 54,
-      "2022-08-19": 6
-    }
+    "dailyMinutesDown": {}
   }
 ]
