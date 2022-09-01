@@ -1,7 +1,7 @@
 url: https://stats.skyfallmc.ga
-status: up
-code: 200
-responseTime: 752
-lastUpdated: 2022-09-01T05:11:55.343Z
+status: down
+code: 502
+responseTime: 508
+lastUpdated: 2022-09-01T07:00:04.357Z
 startTime: Wed Aug 17 2022 23:30:10 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
