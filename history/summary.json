@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 726,
-    "timeDay": 435,
-    "timeWeek": 484,
-    "timeMonth": 726,
-    "timeYear": 726,
+    "time": 724,
+    "timeDay": 436,
+    "timeWeek": 483,
+    "timeMonth": 724,
+    "timeYear": 724,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 629,
-    "timeDay": 484,
-    "timeWeek": 484,
-    "timeMonth": 629,
-    "timeYear": 629,
+    "time": 628,
+    "timeDay": 478,
+    "timeWeek": 483,
+    "timeMonth": 628,
+    "timeYear": 628,
     "dailyMinutesDown": {}
   },
   {
@@ -40,18 +40,20 @@
     "url": "https://map.skyfallmc.ga",
     "icon": "https://favicons.githubusercontent.com/map.skyfallmc.ga",
     "slug": "skyfall-smp-map",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 647,
-    "timeDay": 428,
-    "timeWeek": 485,
+    "timeDay": 434,
+    "timeWeek": 484,
     "timeMonth": 647,
     "timeYear": 647,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-17": 0
+    }
   },
   {
     "name": "Server Statistics",
@@ -64,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
-    "time": 709,
-    "timeDay": 619,
-    "timeWeek": 560,
-    "timeMonth": 709,
-    "timeYear": 709,
+    "time": 707,
+    "timeDay": 583,
+    "timeWeek": 555,
+    "timeMonth": 707,
+    "timeYear": 707,
     "dailyMinutesDown": {
       "2022-09-01": 26
     }
@@ -85,8 +87,8 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
     "time": 228,
-    "timeDay": 214,
-    "timeWeek": 227,
+    "timeDay": 209,
+    "timeWeek": 226,
     "timeMonth": 228,
     "timeYear": 228,
     "dailyMinutesDown": {
