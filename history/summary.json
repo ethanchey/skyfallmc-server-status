@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 710,
-    "timeDay": 421,
-    "timeWeek": 456,
-    "timeMonth": 718,
-    "timeYear": 710,
+    "time": 709,
+    "timeDay": 416,
+    "timeWeek": 458,
+    "timeMonth": 717,
+    "timeYear": 709,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 627,
-    "timeDay": 569,
-    "timeWeek": 503,
-    "timeMonth": 633,
-    "timeYear": 627,
+    "time": 626,
+    "timeDay": 469,
+    "timeWeek": 505,
+    "timeMonth": 634,
+    "timeYear": 626,
     "dailyMinutesDown": {}
   },
   {
@@ -41,16 +41,16 @@
     "icon": "https://favicons.githubusercontent.com/map.skyfallmc.ga",
     "slug": "skyfall-smp-map",
     "status": "up",
-    "uptime": "97.60%",
-    "uptimeDay": "86.72%",
+    "uptime": "97.61%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "89.05%",
     "uptimeMonth": "97.48%",
-    "uptimeYear": "97.60%",
-    "time": 633,
-    "timeDay": 408,
+    "uptimeYear": "97.61%",
+    "time": 632,
+    "timeDay": 418,
     "timeWeek": 468,
-    "timeMonth": 641,
-    "timeYear": 633,
+    "timeMonth": 640,
+    "timeYear": 632,
     "dailyMinutesDown": {
       "2022-09-17": 1104
     }
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
-    "time": 694,
-    "timeDay": 377,
-    "timeWeek": 518,
-    "timeMonth": 695,
-    "timeYear": 694,
+    "time": 691,
+    "timeDay": 354,
+    "timeWeek": 512,
+    "timeMonth": 693,
+    "timeYear": 691,
     "dailyMinutesDown": {
       "2022-09-01": 26
     }
@@ -86,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
-    "time": 228,
-    "timeDay": 231,
-    "timeWeek": 228,
-    "timeMonth": 228,
-    "timeYear": 228,
+    "time": 229,
+    "timeDay": 221,
+    "timeWeek": 231,
+    "timeMonth": 229,
+    "timeYear": 229,
     "dailyMinutesDown": {
       "2022-09-01": 25
     }
