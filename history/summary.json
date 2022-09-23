@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 685,
-    "timeDay": 544,
+    "time": 684,
+    "timeDay": 519,
     "timeWeek": 486,
-    "timeMonth": 686,
-    "timeYear": 685,
+    "timeMonth": 668,
+    "timeYear": 684,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 610,
-    "timeDay": 505,
-    "timeWeek": 512,
-    "timeMonth": 603,
-    "timeYear": 610,
+    "time": 609,
+    "timeDay": 488,
+    "timeWeek": 513,
+    "timeMonth": 578,
+    "timeYear": 609,
     "dailyMinutesDown": {}
   },
   {
@@ -41,16 +41,16 @@
     "icon": "https://favicons.githubusercontent.com/map.skyfallmc.ga",
     "slug": "skyfall-smp-map",
     "status": "up",
-    "uptime": "97.90%",
+    "uptime": "97.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "89.05%",
     "uptimeMonth": "97.48%",
-    "uptimeYear": "97.90%",
-    "time": 618,
-    "timeDay": 606,
-    "timeWeek": 481,
-    "timeMonth": 563,
-    "timeYear": 618,
+    "uptimeYear": "97.91%",
+    "time": 617,
+    "timeDay": 561,
+    "timeWeek": 475,
+    "timeMonth": 542,
+    "timeYear": 617,
     "dailyMinutesDown": {
       "2022-09-17": 1104
     }
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.95%",
-    "time": 669,
-    "timeDay": 617,
-    "timeWeek": 479,
-    "timeMonth": 634,
-    "timeYear": 669,
+    "time": 668,
+    "timeDay": 580,
+    "timeWeek": 473,
+    "timeMonth": 611,
+    "timeYear": 668,
     "dailyMinutesDown": {
       "2022-09-01": 26
     }
@@ -86,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.95%",
-    "time": 227,
-    "timeDay": 196,
-    "timeWeek": 223,
+    "time": 228,
+    "timeDay": 191,
+    "timeWeek": 225,
     "timeMonth": 243,
-    "timeYear": 227,
+    "timeYear": 228,
     "dailyMinutesDown": {
       "2022-09-01": 25
     }
