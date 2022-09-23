@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 688,
-    "timeDay": 552,
-    "timeWeek": 478,
-    "timeMonth": 702,
-    "timeYear": 688,
+    "time": 687,
+    "timeDay": 558,
+    "timeWeek": 480,
+    "timeMonth": 703,
+    "timeYear": 687,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 612,
-    "timeDay": 459,
-    "timeWeek": 508,
-    "timeMonth": 620,
-    "timeYear": 612,
+    "time": 610,
+    "timeDay": 439,
+    "timeWeek": 503,
+    "timeMonth": 621,
+    "timeYear": 610,
     "dailyMinutesDown": {}
   },
   {
@@ -41,16 +41,16 @@
     "icon": "https://favicons.githubusercontent.com/map.skyfallmc.ga",
     "slug": "skyfall-smp-map",
     "status": "up",
-    "uptime": "97.86%",
+    "uptime": "97.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "89.05%",
     "uptimeMonth": "97.48%",
-    "uptimeYear": "97.86%",
-    "time": 619,
-    "timeDay": 492,
-    "timeWeek": 465,
-    "timeMonth": 601,
-    "timeYear": 619,
+    "uptimeYear": "97.88%",
+    "time": 617,
+    "timeDay": 527,
+    "timeWeek": 459,
+    "timeMonth": 581,
+    "timeYear": 617,
     "dailyMinutesDown": {
       "2022-09-17": 1104
     }
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.95%",
-    "time": 670,
-    "timeDay": 547,
-    "timeWeek": 485,
-    "timeMonth": 673,
-    "timeYear": 670,
+    "time": 669,
+    "timeDay": 565,
+    "timeWeek": 479,
+    "timeMonth": 674,
+    "timeYear": 669,
     "dailyMinutesDown": {
       "2022-09-01": 26
     }
@@ -86,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.95%",
-    "time": 229,
-    "timeDay": 223,
-    "timeWeek": 228,
+    "time": 228,
+    "timeDay": 213,
+    "timeWeek": 224,
     "timeMonth": 242,
-    "timeYear": 229,
+    "timeYear": 228,
     "dailyMinutesDown": {
       "2022-09-01": 25
     }
