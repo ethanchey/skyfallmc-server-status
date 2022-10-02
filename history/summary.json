@@ -2,7 +2,7 @@
   {
     "name": "Main Website",
     "url": "https://play.skyfallmc.ga",
-    "icon": "https://favicons.githubusercontent.com/play.skyfallmc.ga",
+    "icon": "https://icons.duckduckgo.com/ip3/play.skyfallmc.ga.ico",
     "slug": "main-website",
     "status": "up",
     "uptime": "99.95%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "99.69%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.95%",
-    "time": 654,
-    "timeDay": 618,
-    "timeWeek": 528,
-    "timeMonth": 501,
-    "timeYear": 654,
+    "time": 653,
+    "timeDay": 542,
+    "timeWeek": 526,
+    "timeMonth": 500,
+    "timeYear": 653,
     "dailyMinutesDown": {
       "2022-09-26": 31
     }
@@ -22,7 +22,7 @@
   {
     "name": "Files Website",
     "url": "https://files.skyfallmc.ga",
-    "icon": "https://favicons.githubusercontent.com/files.skyfallmc.ga",
+    "icon": "https://icons.duckduckgo.com/ip3/files.skyfallmc.ga.ico",
     "slug": "files-website",
     "status": "up",
     "uptime": "99.95%",
@@ -30,11 +30,11 @@
     "uptimeWeek": "99.70%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.95%",
-    "time": 587,
-    "timeDay": 477,
+    "time": 586,
+    "timeDay": 410,
     "timeWeek": 495,
     "timeMonth": 498,
-    "timeYear": 587,
+    "timeYear": 586,
     "dailyMinutesDown": {
       "2022-09-26": 30
     }
@@ -42,19 +42,19 @@
   {
     "name": "SkyfallSMP Map",
     "url": "https://map.skyfallmc.ga",
-    "icon": "https://favicons.githubusercontent.com/map.skyfallmc.ga",
+    "icon": "https://icons.duckduckgo.com/ip3/map.skyfallmc.ga.ico",
     "slug": "skyfall-smp-map",
     "status": "up",
-    "uptime": "97.82%",
+    "uptime": "97.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.59%",
     "uptimeMonth": "96.78%",
-    "uptimeYear": "97.82%",
-    "time": 601,
-    "timeDay": 659,
-    "timeWeek": 533,
-    "timeMonth": 494,
-    "timeYear": 601,
+    "uptimeYear": "97.83%",
+    "time": 600,
+    "timeDay": 618,
+    "timeWeek": 535,
+    "timeMonth": 493,
+    "timeYear": 600,
     "dailyMinutesDown": {
       "2022-09-27": 36,
       "2022-09-26": 206,
@@ -65,7 +65,7 @@
   {
     "name": "Server Statistics",
     "url": "https://stats.skyfallmc.ga",
-    "icon": "https://favicons.githubusercontent.com/stats.skyfallmc.ga",
+    "icon": "https://icons.duckduckgo.com/ip3/stats.skyfallmc.ga.ico",
     "slug": "server-statistics",
     "status": "up",
     "uptime": "99.59%",
@@ -75,7 +75,7 @@
     "uptimeYear": "99.59%",
     "time": 646,
     "timeDay": 584,
-    "timeWeek": 563,
+    "timeWeek": 568,
     "timeMonth": 542,
     "timeYear": 646,
     "dailyMinutesDown": {
@@ -87,7 +87,7 @@
   {
     "name": "SkyfallMC Minecraft Server",
     "url": "play.skyfallmc.ga",
-    "icon": "https://favicons.githubusercontent.com/null",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "skyfall-mc-minecraft-server",
     "status": "up",
     "uptime": "99.58%",
@@ -96,9 +96,9 @@
     "uptimeMonth": "99.45%",
     "uptimeYear": "99.58%",
     "time": 232,
-    "timeDay": 238,
-    "timeWeek": 252,
-    "timeMonth": 221,
+    "timeDay": 218,
+    "timeWeek": 256,
+    "timeMonth": 222,
     "timeYear": 232,
     "dailyMinutesDown": {
       "2022-09-27": 37,
