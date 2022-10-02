@@ -5,21 +5,26 @@ repo: skyfallmc-server-status
 sites:
   - name: Main Website
     url: https://play.skyfallmc.ga
-    maxResponseTime: 5000
+    maxResponseTime: 1000
+    icon: https://play.skyfallmc.ga/assets/favicon-32x32.png
   - name: Files Website
     url: https://files.skyfallmc.ga
-    maxResponseTime: 5000
+    maxResponseTime: 1000
+    icon: https://play.skyfallmc.ga/assets/favicon-32x32.png
   - name: SkyfallSMP Map
     url: https://map.skyfallmc.ga
-    maxResponseTime: 5000
+    maxResponseTime: 1000
+    icon: https://map.skyfallmc.ga/live-atlas/favicons/favicon.svg   
   - name: Server Statistics
     url: https://stats.skyfallmc.ga
-    maxResponseTime: 5000
+    maxResponseTime: 1000
+    icon: https://play.skyfallmc.ga/assets/favicon-32x32.png
   - name: SkyfallMC Minecraft Server
     check: "tcp-ping"
     url: play.skyfallmc.ga
     port: 25565
-    maxResponseTime: 5000
+    maxResponseTime: 1000
+    icon: https://play.skyfallmc.ga/assets/favicon-32x32.png
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
