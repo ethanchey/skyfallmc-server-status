@@ -45,14 +45,12 @@ status-website:
 # Looks like Upptime is broken, pause checking for uptime and response time    
 workflowSchedule:
   graphs: "0 */4 * * *"
-#  responseTime: "0 */4 * * *"
-  responseTime: "0 0 1 1 *"
+  responseTime: "0 */4 * * *"
   staticSite: "0 0 * * 0"
   summary: "0 */4 * * *"
   updateTemplate: "0 0 * * 0"
   updates: "0 0 * * *"
-#  uptime: "*/5 * * * *"
-  uptime: "0 0 1 1 *"
+  uptime: "*/5 * * * *"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
