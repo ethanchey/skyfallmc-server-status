@@ -1,7 +1,7 @@
 url: play.skyfallmc.ga
-status: up
+status: degraded
 code: 200
-responseTime: 93
-lastUpdated: 2023-01-30T12:15:14.447Z
+responseTime: 2073
+lastUpdated: 2023-01-30T13:06:37.389Z
 startTime: Fri Aug 19 2022 01:51:51 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
