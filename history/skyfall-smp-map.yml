@@ -1,7 +1,7 @@
 url: https://map.skyfallmc.ga
-status: down
+status: degraded
 code: 502
-responseTime: 530
-lastUpdated: 2023-06-02T20:07:31.927Z
+responseTime: 4377
+lastUpdated: 2023-06-02T21:51:15.314Z
 startTime: Wed Aug 17 2022 23:30:09 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
