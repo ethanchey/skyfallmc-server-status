@@ -5,18 +5,19 @@
     "icon": "https://play.skyfallmc.ga/assets/favicon-32x32.svg",
     "slug": "main-website",
     "status": "down",
-    "uptime": "52.76%",
+    "uptime": "52.74%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "29.54%",
+    "uptimeYear": "29.49%",
     "time": 456,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 504,
+    "timeYear": 505,
     "dailyMinutesDown": {
-      "2024-02-14": 1208,
+      "2024-02-15": 39,
+      "2024-02-14": 1440,
       "2024-02-13": 1440,
       "2024-02-12": 1440,
       "2024-02-11": 1440,
@@ -279,8 +280,7 @@
       "2023-02-28": 28,
       "2023-02-18": 107,
       "2023-02-17": 16,
-      "2023-02-16": 513,
-      "2023-02-15": 578
+      "2023-02-16": 513
     }
   },
   {
@@ -289,18 +289,19 @@
     "icon": "https://play.skyfallmc.ga/assets/favicon-32x32.svg",
     "slug": "files-website",
     "status": "down",
-    "uptime": "52.80%",
+    "uptime": "52.78%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "29.55%",
-    "time": 450,
+    "uptimeYear": "29.50%",
+    "time": 451,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 480,
     "dailyMinutesDown": {
-      "2024-02-14": 1209,
+      "2024-02-15": 39,
+      "2024-02-14": 1440,
       "2024-02-13": 1440,
       "2024-02-12": 1440,
       "2024-02-11": 1440,
@@ -562,8 +563,7 @@
       "2023-05-29": 205,
       "2023-02-18": 108,
       "2023-02-17": 15,
-      "2023-02-16": 513,
-      "2023-02-15": 577
+      "2023-02-16": 513
     }
   },
   {
@@ -572,18 +572,19 @@
     "icon": "https://map.skyfallmc.ga/live-atlas/favicons/favicon.svg",
     "slug": "skyfall-smp-map",
     "status": "down",
-    "uptime": "52.35%",
+    "uptime": "52.33%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "29.30%",
-    "time": 571,
+    "uptimeYear": "29.25%",
+    "time": 572,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 577,
     "dailyMinutesDown": {
-      "2024-02-14": 1209,
+      "2024-02-15": 39,
+      "2024-02-14": 1440,
       "2024-02-13": 1440,
       "2024-02-12": 1440,
       "2024-02-11": 1440,
@@ -846,8 +847,7 @@
       "2023-03-04": 18,
       "2023-02-18": 108,
       "2023-02-17": 14,
-      "2023-02-16": 513,
-      "2023-02-15": 577
+      "2023-02-16": 513
     }
   },
   {
@@ -856,18 +856,19 @@
     "icon": "https://play.skyfallmc.ga/assets/favicon-32x32.svg",
     "slug": "server-statistics",
     "status": "down",
-    "uptime": "52.78%",
+    "uptime": "52.76%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "29.54%",
+    "uptimeYear": "29.49%",
     "time": 569,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 585,
     "dailyMinutesDown": {
-      "2024-02-14": 1209,
+      "2024-02-15": 39,
+      "2024-02-14": 1440,
       "2024-02-13": 1440,
       "2024-02-12": 1440,
       "2024-02-11": 1440,
@@ -1130,8 +1131,7 @@
       "2023-05-17": 18,
       "2023-02-18": 108,
       "2023-02-17": 14,
-      "2023-02-16": 513,
-      "2023-02-15": 576
+      "2023-02-16": 513
     }
   },
   {
@@ -1140,18 +1140,19 @@
     "icon": "https://play.skyfallmc.ga/assets/favicon-32x32.svg",
     "slug": "skyfall-mc-minecraft-server",
     "status": "down",
-    "uptime": "52.68%",
+    "uptime": "52.66%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "29.60%",
-    "time": 357,
+    "uptimeYear": "29.55%",
+    "time": 356,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 311,
+    "timeYear": 310,
     "dailyMinutesDown": {
-      "2024-02-14": 1209,
+      "2024-02-15": 39,
+      "2024-02-14": 1440,
       "2024-02-13": 1440,
       "2024-02-12": 1440,
       "2024-02-11": 1440,
@@ -1412,8 +1413,7 @@
       "2023-02-21": 45,
       "2023-02-18": 133,
       "2023-02-17": 73,
-      "2023-02-16": 494,
-      "2023-02-15": 575
+      "2023-02-16": 494
     }
   }
 ]
