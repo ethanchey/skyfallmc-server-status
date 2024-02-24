@@ -4,34 +4,34 @@ repo: skyfallmc-server-status
 
 sites:
   - name: Main Website
-    url: https://play.skyfallmc.ga
+    url: https://play.skyfallmc.cc
     maxResponseTime: 1000
-    icon: https://play.skyfallmc.ga/assets/favicon-32x32.svg
+    icon: https://play.skyfallmc.cc/assets/favicon-32x32.svg
   - name: Files Website
-    url: https://files.skyfallmc.ga
+    url: https://files.skyfallmc.cc
     maxResponseTime: 1000
-    icon: https://play.skyfallmc.ga/assets/favicon-32x32.svg
+    icon: https://play.skyfallmc.cc/assets/favicon-32x32.svg
   - name: SkyfallSMP Map
-    url: https://map.skyfallmc.ga
+    url: https://map.skyfallmc.cc
     maxResponseTime: 1000
-    icon: https://map.skyfallmc.ga/live-atlas/favicons/favicon.svg   
+    icon: https://map.skyfallmc.cc/live-atlas/favicons/favicon.svg   
   - name: Server Statistics
-    url: https://stats.skyfallmc.ga
+    url: https://stats.skyfallmc.cc
     maxResponseTime: 1000
-    icon: https://play.skyfallmc.ga/assets/favicon-32x32.svg
+    icon: https://play.skyfallmc.cc/assets/favicon-32x32.svg
   - name: SkyfallMC Minecraft Server
     check: "tcp-ping"
-    url: play.skyfallmc.ga
+    url: play.skyfallmc.cc
     port: 25565
     maxResponseTime: 1000
-    icon: https://play.skyfallmc.ga/assets/favicon-32x32.svg
+    icon: https://play.skyfallmc.cc/assets/favicon-32x32.svg
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.skyfallmc.ga
+  cname: status.skyfallmc.cc
   # baseUrl: /your-repo-name
-  logoUrl: https://play.skyfallmc.ga/assets/statuslogo.svg
+  logoUrl: https://play.skyfallmc.cc/assets/statuslogo.svg
   theme: night
   name: SkyfallMC Status Page
   introTitle: "Welcome to the SkyfallMC Status Page"
@@ -41,7 +41,7 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
     - title: Home
-      href: https://play.skyfallmc.ga
+      href: https://play.skyfallmc.cc
 # Looks like Upptime is broken, pause checking for uptime and response time    
 workflowSchedule:
   graphs: "0 */4 * * *"
