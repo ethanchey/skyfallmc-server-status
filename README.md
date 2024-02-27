@@ -1,6 +1,6 @@
-# 📈 [Live Status](https://status.skyfallmc.ga): <!--live status--> **🟩 All systems operational**
+# 📈 [Live Status](https://status.skyfallmc.cc): <!--live status--> **🟩 All systems operational**
 
-This repository contains [Upptime](https://github.com/upptime/upptime), a free and open uptime monitor and status page for [SkyfallMC](https://play.skyfallmc.ga/).
+This repository contains [Upptime](https://github.com/upptime/upptime), a free and open uptime monitor and status page for [SkyfallMC](https://play.skyfallmc.cc/).
 
 [![Uptime CI](https://img.shields.io/github/actions/workflow/status/merge1973/skyfallmc-server-status/uptime.yml?branch=master&label=Uptime%20CI&logo=github&style=for-the-badge)](https://github.com/merge1973/skyfallmc-server-status/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://img.shields.io/github/actions/workflow/status/merge1973/skyfallmc-server-status/response-time.yml?branch=master&label=Response%20Time%20CI&logo=github&style=for-the-badge)](https://github.com/merge1973/skyfallmc-server-status/actions?query=workflow%3A%22Response+Time+CI%22)
@@ -22,14 +22,14 @@ This repository contains [Upptime](https://github.com/upptime/upptime), a free a
 
 <!--end: status pages-->
 
-📈 [**Visit our status website →**](https://status.skyfallmc.ga)
+📈 [**Visit our status website →**](https://status.skyfallmc.cc)
 
 **Note:** Response times, graphs, and this file are updated around every 4 hours. Server statuses are updated as quickly as possible but is limited due to GitHub Actions not running on time.
 
-[![Status Website](https://img.shields.io/website?down_color=red&down_message=down&label=Status%20Website&logo=googlechrome&logoColor=white&style=for-the-badge&up_message=up&url=https%3A%2F%2Fstatus.skyfallmc.ga)](https://status.skyfallmc.ga/)
+[![Status Website](https://img.shields.io/website?down_color=red&down_message=down&label=Status%20Website&logo=googlechrome&logoColor=white&style=for-the-badge&up_message=up&url=https%3A%2F%2Fstatus.skyfallmc.cc)](https://status.skyfallmc.cc/)
 
 ## 📄 License
 
 - Powered by: [Upptime](https://github.com/upptime/upptime)
-- Code: [MIT](./LICENSE) © [merge1973](https://status.skyfallmc.ga)
+- Code: [MIT](./LICENSE) © [merge1973](https://status.skyfallmc.cc)
 - Data in the `./history` directory: [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
