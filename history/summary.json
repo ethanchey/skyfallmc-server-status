@@ -5,13 +5,13 @@
     "icon": "https://play.skyfallmc.cc/assets/favicon-32x32.svg",
     "slug": "main-website",
     "status": "up",
-    "uptime": "65.70%",
+    "uptime": "65.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "61.38%",
+    "uptimeYear": "61.43%",
     "time": 158,
-    "timeDay": 102,
+    "timeDay": 100,
     "timeWeek": 157,
     "timeMonth": 160,
     "timeYear": 158,
@@ -154,8 +154,7 @@
       "2023-10-12": 1440,
       "2023-10-11": 1440,
       "2023-10-10": 1440,
-      "2023-10-09": 1440,
-      "2023-10-08": 1440
+      "2023-10-09": 1440
     }
   },
   {
@@ -168,7 +167,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "61.38%",
+    "uptimeYear": "61.43%",
     "time": 144,
     "timeDay": 76,
     "timeWeek": 136,
@@ -313,8 +312,7 @@
       "2023-10-12": 1440,
       "2023-10-11": 1440,
       "2023-10-10": 1440,
-      "2023-10-09": 1440,
-      "2023-10-08": 1440
+      "2023-10-09": 1440
     }
   },
   {
@@ -323,15 +321,15 @@
     "icon": "https://map.skyfallmc.cc/live-atlas/favicons/favicon.svg",
     "slug": "skyfall-smp-map",
     "status": "up",
-    "uptime": "65.40%",
+    "uptime": "65.41%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "61.35%",
+    "uptimeYear": "61.40%",
     "time": 200,
-    "timeDay": 140,
-    "timeWeek": 195,
-    "timeMonth": 208,
+    "timeDay": 133,
+    "timeWeek": 196,
+    "timeMonth": 207,
     "timeYear": 200,
     "dailyMinutesDown": {
       "2024-02-25": 17,
@@ -473,8 +471,7 @@
       "2023-10-12": 1440,
       "2023-10-11": 1440,
       "2023-10-10": 1440,
-      "2023-10-09": 1440,
-      "2023-10-08": 1440
+      "2023-10-09": 1440
     }
   },
   {
@@ -483,14 +480,14 @@
     "icon": "https://play.skyfallmc.cc/assets/favicon-32x32.svg",
     "slug": "server-statistics",
     "status": "up",
-    "uptime": "65.70%",
+    "uptime": "65.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
-    "uptimeYear": "61.35%",
+    "uptimeYear": "61.40%",
     "time": 266,
-    "timeDay": 227,
-    "timeWeek": 265,
+    "timeDay": 219,
+    "timeWeek": 264,
     "timeMonth": 266,
     "timeYear": 266,
     "dailyMinutesDown": {
@@ -639,8 +636,7 @@
       "2023-10-12": 1440,
       "2023-10-11": 1440,
       "2023-10-10": 1440,
-      "2023-10-09": 1440,
-      "2023-10-08": 1440
+      "2023-10-09": 1440
     }
   },
   {
@@ -653,7 +649,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
-    "uptimeYear": "61.35%",
+    "uptimeYear": "61.40%",
     "time": 29,
     "timeDay": 6,
     "timeWeek": 24,
@@ -805,8 +801,7 @@
       "2023-10-12": 1440,
       "2023-10-11": 1440,
       "2023-10-10": 1440,
-      "2023-10-09": 1440,
-      "2023-10-08": 1440
+      "2023-10-09": 1440
     }
   }
 ]
