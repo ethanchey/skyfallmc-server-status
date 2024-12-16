@@ -5,14 +5,14 @@
     "icon": "https://play.skyfallmc.cc/assets/favicon-32x32.svg",
     "slug": "main-website",
     "status": "up",
-    "uptime": "68.52%",
+    "uptime": "68.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "80.56%",
+    "uptimeYear": "80.61%",
     "time": 158,
-    "timeDay": 135,
-    "timeWeek": 162,
+    "timeDay": 151,
+    "timeWeek": 161,
     "timeMonth": 153,
     "timeYear": 158,
     "dailyMinutesDown": {
@@ -84,8 +84,7 @@
       "2023-12-21": 1440,
       "2023-12-20": 1440,
       "2023-12-19": 1440,
-      "2023-12-18": 1440,
-      "2023-12-17": 1440
+      "2023-12-18": 1440
     }
   },
   {
@@ -98,10 +97,10 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "80.56%",
+    "uptimeYear": "80.61%",
     "time": 144,
-    "timeDay": 128,
-    "timeWeek": 152,
+    "timeDay": 143,
+    "timeWeek": 151,
     "timeMonth": 140,
     "timeYear": 144,
     "dailyMinutesDown": {
@@ -173,8 +172,7 @@
       "2023-12-21": 1440,
       "2023-12-20": 1440,
       "2023-12-19": 1440,
-      "2023-12-18": 1440,
-      "2023-12-17": 1440
+      "2023-12-18": 1440
     }
   },
   {
@@ -183,13 +181,13 @@
     "icon": "https://map.skyfallmc.cc/live-atlas/favicons/favicon.svg",
     "slug": "skyfall-smp-map",
     "status": "up",
-    "uptime": "68.24%",
+    "uptime": "68.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "80.53%",
+    "uptimeYear": "80.58%",
     "time": 201,
-    "timeDay": 140,
+    "timeDay": 174,
     "timeWeek": 195,
     "timeMonth": 194,
     "timeYear": 201,
@@ -263,8 +261,7 @@
       "2023-12-21": 1440,
       "2023-12-20": 1440,
       "2023-12-19": 1440,
-      "2023-12-18": 1440,
-      "2023-12-17": 1440
+      "2023-12-18": 1440
     }
   },
   {
@@ -273,15 +270,15 @@
     "icon": "https://play.skyfallmc.cc/assets/favicon-32x32.svg",
     "slug": "server-statistics",
     "status": "up",
-    "uptime": "68.52%",
+    "uptime": "68.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "80.52%",
+    "uptimeYear": "80.58%",
     "time": 272,
-    "timeDay": 244,
-    "timeWeek": 283,
-    "timeMonth": 301,
+    "timeDay": 273,
+    "timeWeek": 282,
+    "timeMonth": 300,
     "timeYear": 272,
     "dailyMinutesDown": {
       "2024-09-29": 24,
@@ -359,8 +356,7 @@
       "2023-12-21": 1440,
       "2023-12-20": 1440,
       "2023-12-19": 1440,
-      "2023-12-18": 1440,
-      "2023-12-17": 1440
+      "2023-12-18": 1440
     }
   },
   {
@@ -373,9 +369,9 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "80.52%",
+    "uptimeYear": "80.58%",
     "time": 28,
-    "timeDay": 18,
+    "timeDay": 27,
     "timeWeek": 27,
     "timeMonth": 24,
     "timeYear": 28,
@@ -455,8 +451,7 @@
       "2023-12-21": 1440,
       "2023-12-20": 1440,
       "2023-12-19": 1440,
-      "2023-12-18": 1440,
-      "2023-12-17": 1440
+      "2023-12-18": 1440
     }
   }
 ]
