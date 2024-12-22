@@ -5,13 +5,13 @@
     "icon": "https://play.skyfallmc.cc/assets/favicon-32x32.svg",
     "slug": "main-website",
     "status": "up",
-    "uptime": "68.74%",
+    "uptime": "68.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "82.20%",
+    "uptimeYear": "82.25%",
     "time": 158,
-    "timeDay": 166,
+    "timeDay": 136,
     "timeWeek": 166,
     "timeMonth": 156,
     "timeYear": 158,
@@ -78,8 +78,7 @@
       "2023-12-27": 1440,
       "2023-12-26": 1440,
       "2023-12-25": 1440,
-      "2023-12-24": 1440,
-      "2023-12-23": 1440
+      "2023-12-24": 1440
     }
   },
   {
@@ -92,11 +91,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "82.20%",
+    "uptimeYear": "82.25%",
     "time": 144,
-    "timeDay": 165,
-    "timeWeek": 156,
-    "timeMonth": 143,
+    "timeDay": 138,
+    "timeWeek": 155,
+    "timeMonth": 144,
     "timeYear": 144,
     "dailyMinutesDown": {
       "2024-02-24": 1167,
@@ -161,8 +160,7 @@
       "2023-12-27": 1440,
       "2023-12-26": 1440,
       "2023-12-25": 1440,
-      "2023-12-24": 1440,
-      "2023-12-23": 1440
+      "2023-12-24": 1440
     }
   },
   {
@@ -175,11 +173,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "82.17%",
+    "uptimeYear": "82.23%",
     "time": 201,
-    "timeDay": 196,
-    "timeWeek": 194,
-    "timeMonth": 191,
+    "timeDay": 162,
+    "timeWeek": 193,
+    "timeMonth": 192,
     "timeYear": 201,
     "dailyMinutesDown": {
       "2024-02-25": 17,
@@ -245,8 +243,7 @@
       "2023-12-27": 1440,
       "2023-12-26": 1440,
       "2023-12-25": 1440,
-      "2023-12-24": 1440,
-      "2023-12-23": 1440
+      "2023-12-24": 1440
     }
   },
   {
@@ -255,14 +252,14 @@
     "icon": "https://play.skyfallmc.cc/assets/favicon-32x32.svg",
     "slug": "server-statistics",
     "status": "up",
-    "uptime": "68.74%",
+    "uptime": "68.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "82.17%",
+    "uptimeYear": "82.22%",
     "time": 272,
-    "timeDay": 278,
-    "timeWeek": 274,
+    "timeDay": 254,
+    "timeWeek": 273,
     "timeMonth": 289,
     "timeYear": 272,
     "dailyMinutesDown": {
@@ -335,8 +332,7 @@
       "2023-12-27": 1440,
       "2023-12-26": 1440,
       "2023-12-25": 1440,
-      "2023-12-24": 1440,
-      "2023-12-23": 1440
+      "2023-12-24": 1440
     }
   },
   {
@@ -349,9 +345,9 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "82.17%",
+    "uptimeYear": "82.22%",
     "time": 28,
-    "timeDay": 27,
+    "timeDay": 21,
     "timeWeek": 29,
     "timeMonth": 25,
     "timeYear": 28,
@@ -425,8 +421,7 @@
       "2023-12-27": 1440,
       "2023-12-26": 1440,
       "2023-12-25": 1440,
-      "2023-12-24": 1440,
-      "2023-12-23": 1440
+      "2023-12-24": 1440
     }
   }
 ]
