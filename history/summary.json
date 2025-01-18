@@ -9,11 +9,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "89.60%",
+    "uptimeYear": "89.65%",
     "time": 159,
-    "timeDay": 231,
-    "timeWeek": 187,
-    "timeMonth": 162,
+    "timeDay": 186,
+    "timeWeek": 184,
+    "timeMonth": 161,
     "timeYear": 159,
     "dailyMinutesDown": {
       "2024-02-24": 1167,
@@ -51,8 +51,7 @@
       "2024-01-23": 1440,
       "2024-01-22": 1440,
       "2024-01-21": 1440,
-      "2024-01-20": 1440,
-      "2024-01-19": 1440
+      "2024-01-20": 1440
     }
   },
   {
@@ -61,14 +60,14 @@
     "icon": "https://play.skyfallmc.cc/assets/favicon-32x32.svg",
     "slug": "files-website",
     "status": "up",
-    "uptime": "69.72%",
+    "uptime": "69.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "89.60%",
+    "uptimeYear": "89.65%",
     "time": 144,
-    "timeDay": 199,
-    "timeWeek": 169,
+    "timeDay": 162,
+    "timeWeek": 166,
     "timeMonth": 145,
     "timeYear": 144,
     "dailyMinutesDown": {
@@ -107,8 +106,7 @@
       "2024-01-23": 1440,
       "2024-01-22": 1440,
       "2024-01-21": 1440,
-      "2024-01-20": 1440,
-      "2024-01-19": 1440
+      "2024-01-20": 1440
     }
   },
   {
@@ -117,15 +115,15 @@
     "icon": "https://map.skyfallmc.cc/live-atlas/favicons/favicon.svg",
     "slug": "skyfall-smp-map",
     "status": "up",
-    "uptime": "69.43%",
+    "uptime": "69.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "89.57%",
+    "uptimeYear": "89.62%",
     "time": 199,
-    "timeDay": 279,
-    "timeWeek": 223,
-    "timeMonth": 187,
+    "timeDay": 225,
+    "timeWeek": 219,
+    "timeMonth": 186,
     "timeYear": 199,
     "dailyMinutesDown": {
       "2024-02-25": 17,
@@ -164,8 +162,7 @@
       "2024-01-23": 1440,
       "2024-01-22": 1440,
       "2024-01-21": 1440,
-      "2024-01-20": 1440,
-      "2024-01-19": 1440
+      "2024-01-20": 1440
     }
   },
   {
@@ -178,10 +175,10 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "89.56%",
+    "uptimeYear": "89.62%",
     "time": 271,
-    "timeDay": 344,
-    "timeWeek": 280,
+    "timeDay": 300,
+    "timeWeek": 277,
     "timeMonth": 265,
     "timeYear": 271,
     "dailyMinutesDown": {
@@ -227,8 +224,7 @@
       "2024-01-23": 1440,
       "2024-01-22": 1440,
       "2024-01-21": 1440,
-      "2024-01-20": 1440,
-      "2024-01-19": 1440
+      "2024-01-20": 1440
     }
   },
   {
@@ -237,13 +233,13 @@
     "icon": "https://play.skyfallmc.cc/assets/favicon-32x32.svg",
     "slug": "skyfall-mc-minecraft-server",
     "status": "up",
-    "uptime": "69.65%",
+    "uptime": "69.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "89.56%",
+    "uptimeYear": "89.62%",
     "time": 28,
-    "timeDay": 49,
+    "timeDay": 38,
     "timeWeek": 34,
     "timeMonth": 26,
     "timeYear": 28,
@@ -290,8 +286,7 @@
       "2024-01-23": 1440,
       "2024-01-22": 1440,
       "2024-01-21": 1440,
-      "2024-01-20": 1440,
-      "2024-01-19": 1440
+      "2024-01-20": 1440
     }
   }
 ]
