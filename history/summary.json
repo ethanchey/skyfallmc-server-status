@@ -9,10 +9,10 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.17%",
+    "uptimeYear": "96.23%",
     "time": 159,
-    "timeDay": 126,
-    "timeWeek": 156,
+    "timeDay": 117,
+    "timeWeek": 157,
     "timeMonth": 165,
     "timeYear": 159,
     "dailyMinutesDown": {
@@ -27,8 +27,7 @@
       "2024-02-16": 1440,
       "2024-02-15": 1440,
       "2024-02-14": 1440,
-      "2024-02-13": 1440,
-      "2024-02-12": 1440
+      "2024-02-13": 1440
     }
   },
   {
@@ -37,15 +36,15 @@
     "icon": "https://play.skyfallmc.cc/assets/favicon-32x32.svg",
     "slug": "files-website",
     "status": "up",
-    "uptime": "70.52%",
+    "uptime": "70.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.17%",
+    "uptimeYear": "96.23%",
     "time": 144,
-    "timeDay": 84,
-    "timeWeek": 140,
-    "timeMonth": 149,
+    "timeDay": 89,
+    "timeWeek": 141,
+    "timeMonth": 150,
     "timeYear": 144,
     "dailyMinutesDown": {
       "2024-02-24": 1167,
@@ -59,8 +58,7 @@
       "2024-02-16": 1440,
       "2024-02-15": 1440,
       "2024-02-14": 1440,
-      "2024-02-13": 1440,
-      "2024-02-12": 1440
+      "2024-02-13": 1440
     }
   },
   {
@@ -73,10 +71,10 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.14%",
+    "uptimeYear": "96.20%",
     "time": 198,
-    "timeDay": 124,
-    "timeWeek": 174,
+    "timeDay": 128,
+    "timeWeek": 176,
     "timeMonth": 188,
     "timeYear": 198,
     "dailyMinutesDown": {
@@ -92,8 +90,7 @@
       "2024-02-16": 1440,
       "2024-02-15": 1440,
       "2024-02-14": 1440,
-      "2024-02-13": 1440,
-      "2024-02-12": 1440
+      "2024-02-13": 1440
     }
   },
   {
@@ -106,10 +103,10 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.14%",
+    "uptimeYear": "96.19%",
     "time": 269,
-    "timeDay": 169,
-    "timeWeek": 227,
+    "timeDay": 163,
+    "timeWeek": 228,
     "timeMonth": 246,
     "timeYear": 269,
     "dailyMinutesDown": {
@@ -131,8 +128,7 @@
       "2024-02-16": 1440,
       "2024-02-15": 1440,
       "2024-02-14": 1440,
-      "2024-02-13": 1440,
-      "2024-02-12": 1440
+      "2024-02-13": 1440
     }
   },
   {
@@ -145,7 +141,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.14%",
+    "uptimeYear": "96.19%",
     "time": 28,
     "timeDay": 12,
     "timeWeek": 23,
@@ -170,8 +166,7 @@
       "2024-02-16": 1440,
       "2024-02-15": 1440,
       "2024-02-14": 1440,
-      "2024-02-13": 1440,
-      "2024-02-12": 1440
+      "2024-02-13": 1440
     }
   }
 ]
