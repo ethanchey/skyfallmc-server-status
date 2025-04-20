@@ -13,7 +13,7 @@
     "time": 162,
     "timeDay": 147,
     "timeWeek": 146,
-    "timeMonth": 151,
+    "timeMonth": 152,
     "timeYear": 163,
     "dailyMinutesDown": {
       "2025-02-12": 31
@@ -60,18 +60,19 @@
     "url": "https://stats.skyfallmc.cc",
     "icon": "https://play.skyfallmc.cc/assets/favicon-32x32.svg",
     "slug": "server-statistics",
-    "status": "up",
+    "status": "down",
     "uptime": "72.57%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 268,
-    "timeDay": 222,
-    "timeWeek": 240,
+    "timeDay": 205,
+    "timeWeek": 237,
     "timeMonth": 243,
     "timeYear": 268,
     "dailyMinutesDown": {
+      "2025-04-20": 0,
       "2024-09-29": 24,
       "2024-09-20": 28,
       "2024-05-11": 21
@@ -82,9 +83,9 @@
     "url": "play.skyfallmc.cc",
     "icon": "https://play.skyfallmc.cc/assets/favicon-32x32.svg",
     "slug": "skyfall-mc-minecraft-server",
-    "status": "up",
+    "status": "down",
     "uptime": "72.53%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -94,6 +95,7 @@
     "timeMonth": 24,
     "timeYear": 27,
     "dailyMinutesDown": {
+      "2025-04-20": 0,
       "2024-09-29": 24,
       "2024-09-20": 28,
       "2024-05-11": 21
