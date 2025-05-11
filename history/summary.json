@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 164,
-    "timeDay": 205,
-    "timeWeek": 186,
-    "timeMonth": 166,
+    "timeDay": 218,
+    "timeWeek": 189,
+    "timeMonth": 168,
     "timeYear": 164,
     "dailyMinutesDown": {
       "2025-02-12": 31
@@ -25,15 +25,15 @@
     "icon": "https://play.skyfallmc.cc/assets/favicon-32x32.svg",
     "slug": "files-website",
     "status": "up",
-    "uptime": "73.15%",
+    "uptime": "73.16%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 146,
-    "timeDay": 196,
-    "timeWeek": 166,
-    "timeMonth": 147,
+    "timeDay": 199,
+    "timeWeek": 169,
+    "timeMonth": 148,
     "timeYear": 146,
     "dailyMinutesDown": {}
   },
@@ -43,15 +43,15 @@
     "icon": "https://map.skyfallmc.cc/live-atlas/favicons/favicon.svg",
     "slug": "skyfall-smp-map",
     "status": "up",
-    "uptime": "72.89%",
+    "uptime": "72.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 197,
-    "timeDay": 247,
-    "timeWeek": 239,
-    "timeMonth": 209,
+    "timeDay": 276,
+    "timeWeek": 241,
+    "timeMonth": 210,
     "timeYear": 196,
     "dailyMinutesDown": {}
   },
@@ -67,15 +67,14 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
     "time": 268,
-    "timeDay": 313,
-    "timeWeek": 283,
-    "timeMonth": 265,
+    "timeDay": 353,
+    "timeWeek": 287,
+    "timeMonth": 266,
     "timeYear": 268,
     "dailyMinutesDown": {
       "2025-04-20": 25,
       "2024-09-29": 24,
-      "2024-09-20": 28,
-      "2024-05-11": 21
+      "2024-09-20": 28
     }
   },
   {
@@ -90,15 +89,14 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
     "time": 27,
-    "timeDay": 42,
-    "timeWeek": 32,
+    "timeDay": 46,
+    "timeWeek": 33,
     "timeMonth": 26,
     "timeYear": 27,
     "dailyMinutesDown": {
       "2025-04-20": 25,
       "2024-09-29": 24,
-      "2024-09-20": 28,
-      "2024-05-11": 21
+      "2024-09-20": 28
     }
   }
 ]
