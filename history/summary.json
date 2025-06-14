@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 164,
-    "timeDay": 176,
-    "timeWeek": 151,
+    "timeDay": 169,
+    "timeWeek": 152,
     "timeMonth": 155,
     "timeYear": 164,
     "dailyMinutesDown": {
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 146,
-    "timeDay": 137,
-    "timeWeek": 137,
-    "timeMonth": 140,
+    "timeDay": 140,
+    "timeWeek": 139,
+    "timeMonth": 139,
     "timeYear": 146,
     "dailyMinutesDown": {}
   },
@@ -44,17 +44,17 @@
     "slug": "skyfall-smp-map",
     "status": "down",
     "uptime": "73.80%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.81%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 196,
-    "timeDay": 209,
-    "timeWeek": 199,
-    "timeMonth": 199,
+    "timeDay": 199,
+    "timeWeek": 196,
+    "timeMonth": 198,
     "timeYear": 196,
     "dailyMinutesDown": {
-      "2025-06-14": 0
+      "2025-06-14": 17
     }
   },
   {
@@ -68,9 +68,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.98%",
-    "time": 267,
+    "time": 266,
     "timeDay": 266,
-    "timeWeek": 250,
+    "timeWeek": 253,
     "timeMonth": 258,
     "timeYear": 263,
     "dailyMinutesDown": {
@@ -93,8 +93,8 @@
     "uptimeYear": "99.98%",
     "time": 26,
     "timeDay": 28,
-    "timeWeek": 22,
-    "timeMonth": 23,
+    "timeWeek": 23,
+    "timeMonth": 22,
     "timeYear": 26,
     "dailyMinutesDown": {
       "2025-05-21": 31,
