@@ -80,15 +80,15 @@
     "url": "https://map.skyfallmc.cc",
     "icon": "https://map.skyfallmc.cc/live-atlas/favicons/favicon.svg",
     "slug": "skyfall-smp-map",
-    "status": "down",
+    "status": "up",
     "uptime": "77.30%",
-    "uptimeDay": "91.89%",
-    "uptimeWeek": "98.84%",
-    "uptimeMonth": "99.51%",
-    "uptimeYear": "88.89%",
+    "uptimeDay": "88.18%",
+    "uptimeWeek": "98.18%",
+    "uptimeMonth": "99.36%",
+    "uptimeYear": "88.88%",
     "time": 201,
-    "timeDay": 191,
-    "timeWeek": 159,
+    "timeDay": 190,
+    "timeWeek": 157,
     "timeMonth": 160,
     "timeYear": 200,
     "dailyMinutesDown": {
@@ -141,7 +141,7 @@
       "2026-06-05": 899,
       "2026-07-01": 99,
       "2026-07-25": 117,
-      "2026-07-26": 1
+      "2026-07-26": 68
     }
   },
   {
