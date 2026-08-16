@@ -82,8 +82,8 @@
     "slug": "skyfall-smp-map",
     "status": "degraded",
     "uptime": "77.55%",
-    "uptimeDay": "85.44%",
-    "uptimeWeek": "86.31%",
+    "uptimeDay": "85.38%",
+    "uptimeWeek": "86.30%",
     "uptimeMonth": "95.89%",
     "uptimeYear": "88.58%",
     "time": 209,
@@ -149,7 +149,7 @@
       "2026-08-13": 179,
       "2026-08-14": 245,
       "2026-08-15": 369,
-      "2026-08-16": 24
+      "2026-08-16": 25
     }
   },
   {
