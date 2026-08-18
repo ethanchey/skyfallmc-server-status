@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.24%",
     "time": 162,
-    "timeDay": 107,
-    "timeWeek": 141,
+    "timeDay": 130,
+    "timeWeek": 144,
     "timeMonth": 153,
     "timeYear": 163,
     "dailyMinutesDown": {
@@ -49,8 +49,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.24%",
     "time": 157,
-    "timeDay": 105,
-    "timeWeek": 138,
+    "timeDay": 130,
+    "timeWeek": 142,
     "timeMonth": 148,
     "timeYear": 158,
     "dailyMinutesDown": {
@@ -80,15 +80,15 @@
     "url": "https://map.skyfallmc.cc",
     "icon": "https://map.skyfallmc.cc/live-atlas/favicons/favicon.svg",
     "slug": "skyfall-smp-map",
-    "status": "down",
+    "status": "up",
     "uptime": "77.54%",
-    "uptimeDay": "71.32%",
-    "uptimeWeek": "79.29%",
-    "uptimeMonth": "93.99%",
+    "uptimeDay": "69.44%",
+    "uptimeWeek": "79.02%",
+    "uptimeMonth": "93.93%",
     "uptimeYear": "88.42%",
     "time": 209,
     "timeDay": 296,
-    "timeWeek": 554,
+    "timeWeek": 550,
     "timeMonth": 284,
     "timeYear": 209,
     "dailyMinutesDown": {
@@ -151,7 +151,7 @@
       "2026-08-15": 369,
       "2026-08-16": 441,
       "2026-08-17": 351,
-      "2026-08-18": 62
+      "2026-08-18": 89
     }
   },
   {
@@ -166,9 +166,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "89.49%",
     "time": 270,
-    "timeDay": 198,
-    "timeWeek": 290,
-    "timeMonth": 313,
+    "timeDay": 241,
+    "timeWeek": 295,
+    "timeMonth": 314,
     "timeYear": 271,
     "dailyMinutesDown": {
       "2026-06-01": 1038,
@@ -224,8 +224,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "89.49%",
     "time": 31,
-    "timeDay": 18,
-    "timeWeek": 33,
+    "timeDay": 26,
+    "timeWeek": 34,
     "timeMonth": 34,
     "timeYear": 32,
     "dailyMinutesDown": {
